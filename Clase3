@@ -1,0 +1,118 @@
+//Consigna Numero 1:
+
+{
+  "Academia": "Idiomas",
+  "Nombre": "Next lang",
+  "Numero de telefono": [
+    156734756,
+    154456234
+  ],
+  "Domicilio": "calle principal",
+  "Numero": 123,
+  "Ciudad": "Villa Carlos Paz",
+  "CursosGenerales": {
+    "ingles_basico": {
+      "Duracion_semanas": 4,
+      "precio": 100
+    },
+    "ingles_avanzado": {
+      "Duracion_semanas": 20,
+      "precio": 400
+    },
+    "italiano": {
+      "Duracion_semanas": 5,
+      "precio": 120
+    }
+  }
+}
+//Consigna NUmero 2:
+{
+  "nombreEquipo": "Andefined",
+  "numeroEquipo": 2,
+  "integrantes":[
+    {
+      "nombre": "Andrea",
+      "apellido": "Llavel",
+      "usuario": "Andrea llavel#0916"
+    },
+    {
+      "nombre": "Bárbara",
+      "apellido": "Vizgarra",
+      "usuario": "EV∆#3667"
+    },
+    {
+      "nombre": "Daniela",
+      "apellido": "Morales",
+      "usuario": "Danieladsm6#1960"
+    },
+    {
+      "nombre": "Gaspar",
+      "apellido": "Bianco",
+      "usuario": "MobSpawn#9177"
+    },
+    {
+      "nombre": "Irene",
+      "apellido": "Machuca",
+      "usuario": "IreneMachuca#6547"
+    },
+    {
+      "nombre": "Lucas",
+      "apellido": "Siano",
+      "usuario": "Lucas Siano#7816"
+    },
+    {
+      "nombre": "Martin",
+      "apellido": "Muñoz",
+      "usuario": "MartinMuñoz#2461"
+    },
+    {
+      "nombre": "Matias",
+      "apellido": "Samat",
+      "usuario": "MatiSamatAndefined#5252"
+    },
+    {
+      "nombre": "Hernán",
+      "apellido": "Goldy",
+      "usuario": "Goldy#0521"
+    },
+    {
+      "nombre": "Matias",
+      "apellido": "Castagno",
+      "usuario": "Mattcastagno#1094"
+    },
+    {
+      "nombre": "Gini",
+      "apellido": "Blanco",
+      "usuario": "una-chica#2753"
+    }
+  ]
+}
+//Consigna Numero 3:
+{
+  "preguntas": [
+    {
+      "pregunta1": "¿Cuál es la capital de Córdoba?",
+      "respuestasCorrecta": [
+        "Córdoba"
+      ],
+      "opciones": [
+        "Córdoba",
+        "Río Cuarto",
+        "Carlos Paz",
+        "Villa María"
+        ]
+    },
+    {
+      "pregunta2": "¿Cuál es la capital de Buenos Aires?",
+      "respuestasCorrecta": [
+        "La Plata"
+      ],
+      "opciones": [
+        "La Plata",
+        "Río Cuarto",
+        "Carlos Paz",
+        "Villa María"
+        ]
+    }
+  ]
+}
